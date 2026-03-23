@@ -1,5 +1,7 @@
 # Excel Dengue Dashboard
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white) ![Dashboard](https://img.shields.io/badge/Type-Health%20Dashboard-B8860B) ![Focus](https://img.shields.io/badge/Domain-Dengue%20Analysis-B22222)
+
 ## Overview
 This project presents a dengue analysis dashboard built in Microsoft Excel. It combines cleaned data, geographic mapping inputs, and dashboard visuals to communicate outbreak patterns in a clear and decision-friendly format.
 
